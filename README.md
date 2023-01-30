@@ -11,3 +11,6 @@ Game where you control a paddle with the arrow keys to bounce a ball up to break
 - Add collision detection
 - Keep score
 - Add rules button with slider
+
+#this project part of 20 Web Projects With Vanilla JavaScript by Brad Traversy
+
